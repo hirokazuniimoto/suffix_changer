@@ -8,7 +8,7 @@ suffix_changer
 
 # Features
 
-フォルダの中にあるファイルの拡張子を一括で変えることができるライブラリです。
+フォルダの中にあるファイルの拡張子を一括で変えることができるプログラムです。
 
 # Installation
 
@@ -19,10 +19,10 @@ Gitを使う場合は git clone https://github.com/hirokazuniimoto/YoURList-Et1-
 
 Pythonで実行するプログラムです。
 
-'''
+```
 cd suffix_changer
 pyhton change_suffix.py [拡張子を変えたいフォルダのフルパス]
-'''
+```
 
 # Author
 
