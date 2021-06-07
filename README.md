@@ -12,7 +12,10 @@ suffix_changer
 
 # Installation
 
-Gitを使う場合は git clone https://github.com/hirokazuniimoto/YoURList-Et1-Public.git　
+Gitを使う場合は
+```
+git clone https://github.com/hirokazuniimoto/suffix_changer.git　
+```
 それ以外の場合はGitHubからZIPファイルとしてダウンロードしてください。
 
 # Usage
