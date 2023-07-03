@@ -16,7 +16,7 @@ import os
 import time
 
 
-class Change_Suffix(object):
+class ChangeSuffix(object):
     """docstring forChange_Suffix."""
 
     def get_suffix_pattern(self):
